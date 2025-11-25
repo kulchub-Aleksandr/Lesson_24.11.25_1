@@ -32,7 +32,7 @@ class Dog {
     }
 
     String speak1() {        // ✔️ метод вернет текст
-        return "Ваф!";
+        return "Ваф!!!!!";
     }
     String speak3() {
         return "гулять";

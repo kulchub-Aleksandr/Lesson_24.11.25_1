@@ -28,7 +28,7 @@ class Dog {
     }
 
     String speak() {        // ✔️ метод вернет текст
-        return "говорит";
+        return "кричит";
     }
 
     String speak1() {        // ✔️ метод вернет текст
